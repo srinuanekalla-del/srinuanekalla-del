@@ -8,14 +8,14 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working as a Backend Developer
-- 🌱 Learning Data Structures & Algorithms and System Design
-- 💬 Ask me about Python, Django, Django REST Framework, MySQL, REST APIs
-- 🎯 Goal: Become a Backend Engineer in a Product-Based Company
+- 🌱 Learning Data Structures & Algorithms and DBMS
+- 💬 Ask me about Python, Django, Django REST Framework, MySQL, REST APIs and DSA
+- 🎯 Goal: Become a Backend Engineer 
 - 📍 Location: Bengaluru, Karnataka, India
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 - 🐍 Python
 - 🌐 Django
@@ -24,6 +24,7 @@
 - 🔗 REST APIs
 - 📝 Git
 - 🐙 GitHub
+  
 
 ---
 
